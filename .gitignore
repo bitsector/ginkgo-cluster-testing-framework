@@ -1,0 +1,45 @@
+# Binaries for programs and plugins
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.a
+*.lib
+bin/
+dist/
+
+# Test binary output and coverage files
+*.test
+*.out
+*.prof
+*.trace
+coverage.html
+coverage.out
+
+# Go workspace files
+go.work
+go.env
+
+# Dependency directories
+vendor/
+
+# IDE specific files
+.vscode/
+.idea/
+*.swp
+*.swo
+*.iml
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Local development artifacts
+debug
+tmp/

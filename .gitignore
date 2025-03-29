@@ -43,3 +43,4 @@ Thumbs.db
 # Local development artifacts
 debug
 tmp/
+temp/
